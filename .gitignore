@@ -1,1 +1,10 @@
-/venv
+venv/
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.save
+/project
+/project1
+/weather_project
